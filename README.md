@@ -8,5 +8,8 @@ and trajectories without any change of previous code. For this example was creat
 horizontal/vertical line, a circle or spiral of Archimedes.
 
 <h2> Entry Point </h2>
-The main program is: [AppliDessin.java](AppliDessin.java)
+The main program is: https://github.com/veax/Java-Project-Geometric-Forms-POO-/blob/master/AppliDessin.java
+
+<h3>Other</h3>
+JRE: JavaSE-1.7
 
